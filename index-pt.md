@@ -1,7 +1,3 @@
-Olá! Fico feliz que você tenha feito as alterações para adaptar o projeto ao uso do Gradle. O README está ótimo e, para melhorar ainda mais, fiz algumas revisões para enxugar o texto e corrigir pequenos detalhes. Aqui está a versão ajustada:
-
----
-
 # Cache de Aplicação com Invalidação Distribuída usando Quarkus, Caffeine e Apache Kafka
 
 Este projeto demonstra como implementar um cache local em uma aplicação Quarkus, utilizando o Caffeine como provedor de cache, e como invalidar esse cache em múltiplas instâncias da aplicação usando mensagens via Apache Kafka. O objetivo é manter a consistência dos dados em ambientes distribuídos sem a complexidade de um cache distribuído.
